@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Doc_names_to_ignore
+airlines.csv
+airports.csv
+cancellation_codes.csv
+flights.csv
