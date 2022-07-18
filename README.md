@@ -19,14 +19,20 @@ We will aim to answer the following questions:
 The key conclusions to take away are:
 
 •	The majority of delays and cancellations are due to the weather and so they are at their highest during the winter months when there are adverse weather conditions.
+
 •	Generally, the busier the airport, the more delays and cancellations there are. However, ATL is the busiest airport and has lower rates of delays/cancellations when compared against the remaining top 5 busiest airports.
+
 •	There is a strong positive correlation between the number of flights an airline undertakes and the total time spent delayed.
 
 
 Recommendations:
 
 •	Controlling number of flights offered
+
 •	Professional aviation team for air control
+
 •	Higher number of runways at Multico Air’s airports of choosing
+
 •	Focus package deals on low-peak seasons
+
 •	Airline Operations study for in depth information on day to day operation in the month of September as it has the lowest percentage of departure delays, to learn how to keep it low throughout the year.
